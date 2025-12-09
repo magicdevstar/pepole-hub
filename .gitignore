@@ -32,6 +32,7 @@ yarn-error.log*
 
 # env files (do not commit secrets)
 .env
+github.sh
 .env*.local
 .env.production
 !.env.example
