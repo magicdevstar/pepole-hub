@@ -76,7 +76,7 @@ Country-specific search results with automatic geo-targeting
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/MeirKaD/pepolehub
+git clone https://github.com/magicdevstar/pepole-hub
 cd peoplehub
 ```
 
@@ -330,7 +330,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## 📧 Contact
 
-Built by [Meir Kadosh](https://github.com/MeirKaD)
+Built by [Meir Kadosh](https://github.com/magicdevstar)
 
 Questions or feedback? Open an issue or reach out!
 
