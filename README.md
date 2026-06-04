@@ -330,7 +330,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## 📧 Contact
 
-Built by [Meir Kadosh](https://github.com/magicdevstar)
+Built by [Magicdevstar](https://github.com/magicdevstar)
 
 Questions or feedback? Open an issue or reach out!
 
